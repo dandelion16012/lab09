@@ -40,7 +40,8 @@ cp /vagrant/index.html /var/www/html/
 vagrant up
 ```
 
-![изображение](https://github.com/Wenir04/lab9/assets/113133600/acc797d2-cccf-4024-ab25-6140b9ca2a98)
+![Снимок экрана 2023-06-02 190121](https://github.com/dandelion16012/lab09/assets/114254438/fb4633ef-4124-4f26-bd31-9d209011dc6c)
+
 
 
 Oстановка и удаление виртуальной машины
