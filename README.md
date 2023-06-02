@@ -23,8 +23,6 @@ end
 
 
 Создаём файл bootstrap.sh
-
-
 ```
 
 apt-get update
@@ -52,3 +50,9 @@ Oстановка и удаление виртуальной машины
 vagrant halt
 vagrant destroy
 ```
+
+команда для быстрого подключения к серверу
+```
+vagrant ssh
+```
+ 
